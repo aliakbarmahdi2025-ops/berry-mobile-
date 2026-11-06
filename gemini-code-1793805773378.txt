@@ -1,0 +1,7 @@
+res://
+ ├── scenes/
+ │    └── Main.tscn
+ └── scripts/
+      ├── player_controller.gd
+      ├── ball.gd
+      └── game_manager.gd
